@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1060463947270",
+    "firebase_url": "https://bustracker-a82f6.firebaseio.com",
+    "project_id": "bustracker-a82f6",
+    "storage_bucket": "bustracker-a82f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060463947270:android:605e3f8716b2a6b9",
+        "android_client_info": {
+          "package_name": "com.android.google.bustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060463947270-s8u43ib4ljrp00fv7gmopqt0ipnalnsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.google.bustracker",
+            "certificate_hash": "59f3812a1e140a813fdbf8813b0474e4c3f3515a"
+          }
+        },
+        {
+          "client_id": "1060463947270-g9shr5vjuugucsq35jc9ek2q5vdec5r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2sRV3D6Oy1L2oMbAUZ273ilmwgWnuI8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060463947270-g9shr5vjuugucsq35jc9ek2q5vdec5r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060463947270:android:88949a3c41e2fb01",
+        "android_client_info": {
+          "package_name": "com.android.internship.project.trackerdisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060463947270-h9p1agh681fcp4cpm3aakbene85fcokc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.internship.project.trackerdisplay",
+            "certificate_hash": "59f3812a1e140a813fdbf8813b0474e4c3f3515a"
+          }
+        },
+        {
+          "client_id": "1060463947270-g9shr5vjuugucsq35jc9ek2q5vdec5r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2sRV3D6Oy1L2oMbAUZ273ilmwgWnuI8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060463947270-g9shr5vjuugucsq35jc9ek2q5vdec5r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
